@@ -25,13 +25,13 @@
 ---
 ## :timer_clock: study log
 ### YuChan-Song
-[**11월 1주차**](../study-log/ycsong/history/2021/Nov/1st-week.md)  
-[**11월 2주차**](../study-log/ycsong/history/2021/Nov/2nd-week.md)  
-[**11월 3주차**](../study-log/ycsong/history/2021/Nov/3rd-week.md)  
-[**11월 4주차**](../study-log/ycsong/history/2021/Nov/4th-week.md)  
+[**11월 1주차**](./ycsong/history/2021/Nov/1st-week.md)  
+[**11월 2주차**](./ycsong/history/2021/Nov/2nd-week.md)  
+[**11월 3주차**](./ycsong/history/2021/Nov/3rd-week.md)  
+[**11월 4주차**](./ycsong/history/2021/Nov/4th-week.md)  
 
 ### SeungKyung-Sim
-[**11월 4주차**](../study-log/sksim/histroy/2021/Nov/4th-week.txt)  
+[**11월 4주차**](./sksim/histroy/2021/Nov/4th-week.txt)  
 
 ### SeungJin-Choi
-[**11월 4주차**](../study-log/sjchoi/2021/Nov/4th-week.md)  
+[**11월 4주차**](./sjchoi/2021/Nov/4th-week.md)  
