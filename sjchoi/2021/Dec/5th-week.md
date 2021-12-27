@@ -1,4 +1,4 @@
-## 12월 5주차 (2022 마무리)
+## 12월 5주차 (:fireworks:2021년 마무리)
 ### Node.js
 - [ ] node.js 정리 (modules, http)
 - [ ] node.js 인강 #1 (express server ~ what is next?)
