@@ -21,17 +21,19 @@
     - [ ] Swift 공부
     - [x] Javascript Study
     - [ ] Spring boot - migration
-
----
-## :timer_clock: study log
+## :point_right: study log
 ### YuChan-Song
+:date:**2021년**  
 [**11월 1주차**](./ycsong/history/2021/Nov/1st-week.md)  
 [**11월 2주차**](./ycsong/history/2021/Nov/2nd-week.md)  
 [**11월 3주차**](./ycsong/history/2021/Nov/3rd-week.md)  
 [**11월 4주차**](./ycsong/history/2021/Nov/4th-week.md)  
 
 ### SeungKyung-Sim
+:date:**2021년**  
 [**11월 4주차**](./sksim/histroy/2021/Nov/4th-week.txt)  
 
 ### SeungJin-Choi
+:date:**2021년**  
 [**11월 4주차**](./sjchoi/2021/Nov/4th-week.md)  
+[**12월 5주차**](./sjchoi/2021/Dec/5th-week.md)    
